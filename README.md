@@ -1,5 +1,5 @@
 ### Hi there  wuxie👋
-### 平平无奇小全栈
+### 平平无奇小全栈🤡
 ### 个人博客 https://zqywuxie.top/
 <!--
 **zqywuxie/zqywuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
