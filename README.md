@@ -1,7 +1,7 @@
 ### Hi there  wuxie👋
 ### 平平无奇小全栈🤡
-### 牢记前后端分离，人不分离
-### 个人博客 https://zqywuxie.top/
+### 牢记前后端分离，人不分离 🥴
+### 个人博客 https://www.zqywuxie.top/ 😍
 <!--
 **zqywuxie/zqywuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
