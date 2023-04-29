@@ -3,6 +3,7 @@
 ### 牢记前后端分离，人不分离 🥴
 ### 在？给个内推码 😍
 ### 个人博客 https://www.zqywuxie.top/ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zqywuxie)](https://git.io/streak-stats)
 <!--
 **zqywuxie/zqywuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
