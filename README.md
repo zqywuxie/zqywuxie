@@ -6,6 +6,8 @@
 ### 开源项目
 - **志同道合(伙伴匹配系统) https://www.zqyyouxie.ren/**
 - **云Api免费开放平台(优化中)**
+- **EasyWeb(基于golang的Web框架 待完善)**
+  - 代码地址 LearnNote(code分支) 
 
 
 
