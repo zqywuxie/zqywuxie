@@ -28,7 +28,7 @@
 <code><img height="20" src="./img/skill/Vite.png" title="Vite" /></code>
 
 ### 后端技术
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqywuxie&layout=compact"/>
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqywuxie&layout=compact" alt="#"/>
 
 <code><img height="20" src="./img/skill/Java.png" title="Java" /></code>
 <code><img height="20" src="./img/skill/golang.png" title="Golang" /></code>
