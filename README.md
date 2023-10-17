@@ -42,7 +42,7 @@
 
 ### 开发工具
 <code><img height="20" src="./img/skill/git.png" title="git" /></code>
-<code><img height="20" src="./img/skill/idea.png" title="IDEA" /></code>
+<code><img height="20" src="./img/skill/Idea.png" title="IDEA" /></code>
 <code><img height="20" src="./img/skill/Vscode.png" title="Vscode" /></code>
 <code><img height="20" src="./img/skill/微信开发者工具.png" title="微信开发者工具" /></code>
 
