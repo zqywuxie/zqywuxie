@@ -16,8 +16,8 @@
       - 微服务框架
       - 代码地址 LearnNote(code分支) [zqywuxie/LearnNote at code (github.com)](https://github.com/zqywuxie/LearnNote/tree/code)
 
-### 前端技术<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=zqywuxie&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-
+### 前端技术
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=zqywuxie&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 <code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
 <code><img height="20" src="./img/skill/Css.png" title="Css" /></code>
 <code><img height="20" src="./img/skill/Less.png" title="Less" /></code>
@@ -26,10 +26,9 @@
 <code><img height="20" src="./img/skill/Vue.png" title="Vue" /></code>
 <code><img height="20" src="./img/skill/React.png" title="React" /></code>
 <code><img height="20" src="./img/skill/Vite.png" title="Vite" /></code>
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqywuxie&layout=compact"/>
 
 ### 后端技术
-
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqywuxie&layout=compact"/>
 
 <code><img height="20" src="./img/skill/Java.png" title="Java" /></code>
 <code><img height="20" src="./img/skill/golang.png" title="Golang" /></code>
@@ -49,4 +48,3 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=zqywuxie&show_icons=true&theme=dark&count_private=true)
