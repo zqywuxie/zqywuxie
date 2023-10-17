@@ -37,7 +37,7 @@
 <code><img height="20" src="./img/skill/Mysql.png" title="Mysql" /></code>
 <code><img height="20" src="./img/skill/spring-boot.png" title="Spring" /></code>
 <code><img height="20" src="./img/skill/spring-cloud.png" title="SpringCloud" /></code>
-<code><img height="20" src="./img/skill/MyBatis.png" title="MyBatis" /></code>
+<code><img height="20" src="./img/skill/Mybatis.png" title="MyBatis" /></code>
 <code><img height="20" src="./img/skill/rabbitmq.png" title="RabbitMQ" /></code>
 
 ### 开发工具
